@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1521322943 source:c:\users\babs beats\desktop\test\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+
+1521322931 c:\users\babs beats\desktop\test\fonction.h
+	<stdio.h>
+	<stdlib.h>
+
+1521322933 source:c:\users\babs beats\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1521390077 source:c:\users\babs beats\desktop\devoir_ges_class_etu\lbi_class_etu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LBI_CLASS_ETU.h"
+
+1521392505 c:\users\babs beats\desktop\devoir_ges_class_etu\lbi_class_etu.h
+	<stdio.h>
+	<stdlib.h>
+
+1521391651 source:c:\users\babs beats\desktop\devoir_ges_class_etu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LBI_CLASS_ETU.h"
+
+1521391651 source:c:\users\babs beats\desktop\cours\2eme annee\tp langage c 2eme annee\devoir_ges_class_etu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LBI_CLASS_ETU.h"
+
+1521392505 c:\users\babs beats\desktop\cours\2eme annee\tp langage c 2eme annee\devoir_ges_class_etu\lbi_class_etu.h
+	<stdio.h>
+	<stdlib.h>
+
+1521450892 source:c:\users\babs beats\desktop\cours\2eme annee\tp langage c 2eme annee\devoir_ges_class_etu\lbi_class_etu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LBI_CLASS_ETU.h"
+
